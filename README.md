@@ -29,3 +29,5 @@ install.packages(c('tidyverse', 'ggrepel'), dependencies = T)
 - linearmodels
 - statsmodels
 - collections
+- rpy2
+- tzlocal
