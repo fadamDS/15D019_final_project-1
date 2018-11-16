@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.2)  15 NOV 2018 22:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.2.2)  16 NOV 2018 13:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1315,20 +1315,11 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 119.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<LandingPage.png, id=23, 1242.6425pt x 699.61375pt>
+<LandingPage.png, id=7, 1242.6425pt x 699.61375pt>
 File: LandingPage.png Graphic file (type png)
  <use LandingPage.png>
-Package pdftex.def Info: LandingPage.png used on input line 135.
+Package pdftex.def Info: LandingPage.png used on input line 136.
 (pdftex.def)             Requested size: 1242.63948pt x 699.61205pt.
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ˜ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ˜ in font cmr12!
@@ -1350,35 +1341,26 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ˜ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
- <New_Landing_Page.jpg, id=41, 963.6pt x 542.025pt>
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] <New_La
+nding_Page.jpg, id=25, 963.6pt x 542.025pt>
 File: New_Landing_Page.jpg Graphic file (type jpg)
 
 <use New_Landing_Page.jpg>
-Package pdftex.def Info: New_Landing_Page.jpg used on input line 145.
+Package pdftex.def Info: New_Landing_Page.jpg used on input line 146.
 (pdftex.def)             Requested size: 963.59766pt x 542.02367pt.
  [2 <./LandingPage.png> <./New_Landing_Page.jpg>]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
+[3]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ˜ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
-
-[3] <New_Shop_Button.jpg, id=55, 963.6pt x 542.025pt>
+ <New_Shop_Button.jpg, id=39, 963.6pt x 542.025pt>
 File: New_Shop_Button.jpg Graphic file (type jpg)
 
 <use New_Shop_Button.jpg>
-Package pdftex.def Info: New_Shop_Button.jpg used on input line 165.
+Package pdftex.def Info: New_Shop_Button.jpg used on input line 170.
 (pdftex.def)             Requested size: 963.59766pt x 542.02367pt.
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
@@ -1389,22 +1371,23 @@ Missing character: There is no ™ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
-Package atenddvi Info: Last page = 4.
  [4 <./New_Shop_Button.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 173.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 173.
+Package atenddvi Info: Last page = 5.
+ [5]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 178.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 178.
  (./AB_Testing.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 173.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 173.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 178.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 178.
 Package rerunfilecheck Info: File `AB_Testing.out' has not changed.
-(rerunfilecheck)             Checksum: EB20A8015492EEC6498F2EC144604F6C;247.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 173.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 178.
  ) 
 Here is how much of TeX's memory you used:
- 30661 strings out of 493014
- 555134 string characters out of 6133352
+ 30646 strings out of 493014
+ 554925 string characters out of 6133352
  661529 words of memory out of 5000000
- 33658 multiletter control sequences out of 15000+600000
+ 33646 multiletter control sequences out of 15000+600000
  18022 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  54i,7n,79p,10393b,456s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1417,10 +1400,10 @@ cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/loc
 al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/loca
 l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/
 texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on AB_Testing.pdf (4 pages, 1020853 bytes).
+Output written on AB_Testing.pdf (5 pages, 1022613 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
- 13 named destinations out of 1000 (max. 500000)
- 78 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
